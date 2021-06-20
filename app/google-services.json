@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805800933426",
+    "project_id": "test-cad13",
+    "storage_bucket": "test-cad13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805800933426:android:409819f0706b0c40eea42b",
+        "android_client_info": {
+          "package_name": "com.roctogo.space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805800933426-6e7lavpj93nujubo6fuj4vrj28t8ajcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWGs-gwM3KGhU3GT0Vzr_p6rilWR7JuVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805800933426-6e7lavpj93nujubo6fuj4vrj28t8ajcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
